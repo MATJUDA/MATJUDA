@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Cafe24OhsquareAir';
+  src: url('../../fonts/Cafe24OhsquareAir-v2.0.woff2') format('woff2'),
+       url('../../fonts/Cafe24OhsquareAir-v2.0.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.commentTitle{
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+.bestComment{
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+  margin-top: 0px;
+  font-size: 12px;
+}
+.comment_frame{
+  text-align: left;
+  position: absolute;
+  bottom: 40px; /* 위로 이동할 픽셀 수를 조정하세요 */
+  left: 160px;
+}

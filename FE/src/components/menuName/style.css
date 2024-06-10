@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Cafe24OhsquareAir";
+  src: url("../../fonts/Cafe24OhsquareAir-v2.0.woff2") format("woff2"),
+    url("../../fonts/Cafe24OhsquareAir-v2.0.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.menu_name {
+  font-family: "Cafe24OhsquareAir", sans-serif;
+  font-size: 18px;
+  display: inline-block;
+  position: absolute;
+  top: 25px; /* 프레임 기준 위쪽 마진 */
+  left: 160px; /* 프레임 기준 오른쪽 마진 */
+}
+
+.corner {
+  font-family: "Cafe24OhsquareAir", sans-serif;
+  font-size: 14px;
+  display: inline-block;
+  position: absolute;
+  top: 15px; /* 프레임 기준 위쪽 마진 */
+  left: 160px; /* 프레임 기준 오른쪽 마진 */
+  color: #878e88;
+}

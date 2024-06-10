@@ -1,0 +1,7 @@
+.state{
+  position: absolute;
+  top: 10px; /* 프레임 기준 위쪽 마진 */
+  right: 10px; /* 프레임 기준 오른쪽 마진 */
+  height: 32px;
+  
+}

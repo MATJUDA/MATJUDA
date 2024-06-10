@@ -1,0 +1,11 @@
+.food_picture {
+  margin: 20px 0px 20px 20px;
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+}
+.no_picture{
+  position: absolute;
+  left: 105px;
+  top: -2px;
+}

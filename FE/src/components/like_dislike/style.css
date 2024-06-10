@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Cafe24OhsquareAir';
+  src: url('../../fonts/Cafe24OhsquareAir-v2.0.woff2') format('woff2'),
+       url('../../fonts/Cafe24OhsquareAir-v2.0.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.rate {
+  display: flex;
+  justify-content: flex-start;
+  gap: 40px; /* like와 dislike 사이의 간격 조정 */
+  align-items: center;
+  position: absolute;
+  bottom: 10px; /* 위로 이동할 픽셀 수를 조정하세요 */
+  right: 10px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item button {
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item button:disabled {
+  cursor: not-allowed;
+}
+
+.item img {
+  width: 24px; /* 필요한 크기로 조정 */
+  height: 24px; /* 필요한 크기로 조정 */
+  margin-bottom: 0px; /* 아이콘과 숫자 사이의 간격 */
+}
+
+.item p {
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+  margin: 0;
+  font-size: 12px; /* 필요한 크기로 조정 */
+}

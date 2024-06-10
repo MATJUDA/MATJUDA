@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Cafe24OhsquareAir';
+  src: url('../../fonts/Cafe24OhsquareAir-v2.0.woff2') format('woff2'),
+       url('../../fonts/Cafe24OhsquareAir-v2.0.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.header-title {
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.header-subtitle {
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.header-subtitle::before,
+.header-subtitle::after {
+  content: '';
+  flex-grow: 1;
+  border-bottom: 1px solid black;
+  margin: 0 10px;
+}
+
+.header-subtitle span {
+  font-size: 16px;
+  white-space: nowrap;
+}
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  /* justify-content: flex-start;  --> 주석 처리 */
+  align-items: center; /* 이미 가운데 정렬됨 */
+  flex-direction: column;
+}
+
+.App-header {
+  position: relative;
+  text-align: center;
+  background-color: white;
+  height: 300px; /* 적절한 높이 설정 */
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.App-header span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+  color: black;
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+  font-weight: bold;
+}
+.App.disabled {
+  pointer-events: none;
+  opacity: 0.5; /* 비활성화 시 반투명 처리 */
+}

@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Cafe24OhsquareAir';
+  src: url('../../fonts/Cafe24OhsquareAir-v2.0.woff2') format('woff2'),
+       url('../../fonts/Cafe24OhsquareAir-v2.0.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px 0;
+  border-top: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.footer-subtitle {
+  font-family: 'Cafe24OhsquareAir', sans-serif;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.footer-subtitle::before,
+.footer-subtitle::after {
+  content: '';
+  flex-grow: 1;
+  border-bottom: 1px solid black;
+  margin: 0 10px;
+}
+
+.footer-subtitle span {
+  font-size: 16px;
+  white-space: nowrap;
+}
