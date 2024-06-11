@@ -1,7 +1,38 @@
 # MATJUDA
 A service that provides and shares various information about Univ.'s restaurant menus
 
+<details>
+  <summary>한국어</summary>
 
+  ## 학교 내 식당 메뉴 정보 제공 서비스
+  
+### 프로젝트 기간
+2024.03.11 ~ 현재
+
+### 개발 인원
+2명(팀 프로젝트)
+
+### 개발 환경
+<ul>
+  <li>Python</li>
+  <li>Flask</li>
+  <li>MySQL</li>
+  <li>AWS EC2</li>
+  <li>AWS RDS</li>
+  <li>C++ (Arduino)</li>
+  <li>HTML5, CSS3, javaScript</li>
+  <li>React</li>
+  <li>Figma</li>
+  <li>Git, Github</li>
+</ul>
+
+### ERD
+<a href="https://www.erdcloud.com/d/vtSNbp6MYKXPSsuxQ">ERD 보기</a>
+
+### API 명세서
+<a href="https://heliotrope-mandible-d59.notion.site/API-8fb8ae7ec3a14f14a24273cbc6744ad1">API 명세서 보기</a>
+
+</details>
 <details>
   <summary>日本語</summary>
 
@@ -15,12 +46,31 @@ https://github.com/MATJUDA/MATJUDA/assets/133950720/b8ac49ad-7d9a-4e68-a64c-43d5
 ### プロジェクト目的
 このプロジェクトの目的は、生徒たちに学校内の食堂のメニューがなくなった状態をリアルタイムで提供することです。 現在は食堂に直接到着しないとメニューが売り切れかどうかが分からないので不便です。 これを解消し、さらに食堂のメニューに対する意見を学生同士で分かち合えるコミュニティを用意しようと思います。
 
-### 私の役目
-- プロジェクト提案及びアイデア提供
-- ユーザーおよび管理者プロセス構想
-- UX/UI構想
-- FE(Reactを使用してコンポーネントの管理、維持、および製作)
-- プロジェクト全体の管理と維持
+### プロジェクト期間
+2024.03.11 ~ 現在
+
+### 開発人員
+2人(チームプロジェクト)
+
+### 開発環境
+<ul>
+  <li>Python</li>
+  <li>Flask</li>
+  <li>MySQL</li>
+  <li>AWS EC2</li>
+  <li>AWS RDS</li>
+  <li>C++ (Arduino)</li>
+  <li>HTML5, CSS3, javaScript</li>
+  <li>React</li>
+  <li>Figma</li>
+  <li>Git, Github</li>
+</ul>
+
+### ERD
+<a href="https://www.erdcloud.com/d/vtSNbp6MYKXPSsuxQ">ERD</a>
+
+### API 명세서
+<a href="https://heliotrope-mandible-d59.notion.site/API-8fb8ae7ec3a14f14a24273cbc6744ad1">API 明細書</a>
 
 ## 調査と分析の段階
 
