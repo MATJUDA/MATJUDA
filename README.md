@@ -26,6 +26,24 @@ A service that provides and shares various information about Univ.'s restaurant 
   <li>Git, Github</li>
 </ul>
 
+<details>
+  <summary>활동 사진</summary>
+
+  ![S__5316638](https://github.com/user-attachments/assets/ddc938fe-ebca-4688-9b53-db9a47a61187)
+
+  지속적인 학생 식당 관리자측과의 소통과 협업
+
+  ![IMG_9064](https://github.com/user-attachments/assets/3d6614d2-b99e-461f-a66d-2039eb40c5f3)
+![IMG_9066](https://github.com/user-attachments/assets/46c20034-7552-417a-9feb-7f0f88efb0ef)
+
+용산에서의 아두이노 구매
+
+![IMG_9174](https://github.com/user-attachments/assets/1f733812-57bb-4eda-b338-12ebfa7f12e6)
+
+학교 학생식당에 실제 설치한 모습
+
+
+</details>
 ### ERD
 <a href="https://www.erdcloud.com/d/vtSNbp6MYKXPSsuxQ">ERD 보기</a>
 
@@ -65,6 +83,25 @@ https://github.com/MATJUDA/MATJUDA/assets/133950720/b8ac49ad-7d9a-4e68-a64c-43d5
   <li>Figma</li>
   <li>Git, Github</li>
 </ul>
+
+<details>
+  <summary>活動写真</summary>
+
+  ![S__5316638](https://github.com/user-attachments/assets/ddc938fe-ebca-4688-9b53-db9a47a61187)
+
+  継続的な学生食堂の管理者側とのコミュニケーションと協業
+
+  ![IMG_9064](https://github.com/user-attachments/assets/3d6614d2-b99e-461f-a66d-2039eb40c5f3)
+![IMG_9066](https://github.com/user-attachments/assets/46c20034-7552-417a-9feb-7f0f88efb0ef)
+
+龍山でArduinoを購入
+
+![IMG_9174](https://github.com/user-attachments/assets/1f733812-57bb-4eda-b338-12ebfa7f12e6)
+
+学校の学生食堂に実際に設置した姿
+
+
+</details>
 
 ### ERD
 <a href="https://www.erdcloud.com/d/vtSNbp6MYKXPSsuxQ">ERD</a>
