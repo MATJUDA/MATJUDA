@@ -1,5 +1,6 @@
 # MATJUDA
 A service that provides and shares various information about Univ.'s restaurant menus
+![image](https://github.com/user-attachments/assets/06e1d234-987f-42dc-837c-59cffd20bf24)
 
 <details>
   <summary>한국어</summary>
